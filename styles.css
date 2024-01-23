@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  /* font-family: 'Libre Baskerville', serif; */
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card {
+  background: white;
+  padding: 1rem;
+  border: 1px solid #777;
+  border-radius: 0.25rem;
+}
